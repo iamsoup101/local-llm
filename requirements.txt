@@ -1,0 +1,6 @@
+ollama
+SQLAlchemy
+pymysql
+psycopg2-binary
+pymongo
+requests
